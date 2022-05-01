@@ -2,3 +2,4 @@ account3 init
 account2 add in edit by account2 
 account2 add in edit by account3 
 account2 add new message
+account1 forked in program
