@@ -1,2 +1,3 @@
 account3 init
 account2 add in 
+account2 add new message
